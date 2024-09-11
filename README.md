@@ -1,9 +1,4 @@
 <h1>Hey guys, I'm Enzo Shiotuqui, a programming student, Full Stack Developer and nerd in his spare time </h1>
- <div style="display: inline_block">
-   <p>If you want to know more about me, just follow this link :)
-https://shiotuqui.netlify.app</p>
- </div>
-
  
 <h2>  Github Stats: <br></h3>
 <div>
