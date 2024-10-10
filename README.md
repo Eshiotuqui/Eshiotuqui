@@ -1,4 +1,7 @@
 <h1>Hey guys, I'm Enzo Shiotuqui, a programming student, Full Stack Developer and nerd in his spare time </h1>
+<h3>
+  <a href="https://eshiotuqui.netlify.app/">My portifolio</a>
+ </h3>
  
 <h2>  Github Stats: <br></h3>
 <div>
