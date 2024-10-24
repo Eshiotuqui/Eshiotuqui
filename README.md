@@ -10,21 +10,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMiShiotuqui&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=EnzoMiShiotuqui&color=006bed)
 
-<h2>technologies that I use :) </h3>
-<div style="display: inline_block"><br>
-   <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="30" width="30"  />
-   <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="30" width="30" />
-   <img src="https://a.imagem.app/bVd8Zv.png" alt="HTML"  height="30" width="30" align="center" />
-   <img src="https://a.imagem.app/bVdbAT.png" alt="CSS" height="30" width="30" align="center" />
-   <img  align="center" src="https://a.imagem.app/bVZgHb.png" alt="VUE.JS" height="30" width="30" />
-   <img src="https://a.imagem.app/bNa5gN.png" alt="REACT" border="0"  align="center"  height="30" width="30" />
-   <img align="center" src="https://a.imagem.app/bVZvxQ.png" alt="NODE"  height="30" width="30" />
-   <img align="center" src="https://a.imagem.app/bVZ48W.png" alt="TS" height="30" width="30"  />
-</div>
+**Technologies**
+
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,python,nodejs,js,typescript,mysql,html,css,figma)](https://skillicons.dev)
+  
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+  
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 
-<h2>my networks:)</h2>
+<h2>my networks</h2>
 <div> 
   <a href="https://www.youtube.com/channel/UCbXbu0sotfMH55gm3DbcbhA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/enzo.shiotuqui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
