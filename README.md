@@ -5,12 +5,11 @@
  
 <h2>  Github Stats: <br></h3>
 <div>
-  <a href="[https://github.com/EnzoShiotuqui](https://github.com/EnzoMiShiotuqui)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnzoMiShiotuqui&show_icons=true&theme=tokyonight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMiShiotuqui&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="[https://github.com/EnzoShiotuqui](https://github.com/Eshiotuqui)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eshiotuqui&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshiotuqui&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=EnzoMiShiotuqui&color=006bed)
 
 **Technologies**
 
