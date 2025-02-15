@@ -5,9 +5,9 @@
   <p align="center">I'm passionate about creating solutions with technology 🚀<br> I have 2 years of experience in the development field, with a focus on front-end, and in that time I have gained experience in creating solutions and solving problems. I consider myself to be someone who is proactive, friendly and who always tries to understand the most creative and efficient ways to solve a problem. If you'd like to know more, feel free to take a look at my <a href="https://eshiotuqui.netlify.app/" target="_blank">portifolio</a>
 </p>&nbsp;
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 1000px">
-  <img width="40%" align="center" height="170em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Eshiotuqui&show_icons=true&theme=tokyonight&layout=compact" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api?username=Eshiotuqui&show_icons=true&theme=tokyonight&layout=compact">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 2000px">
+  <img width="40%" align="center" height="200em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Eshiotuqui&show_icons=true&theme=tokyonight&layout=donut" />
+  <img width="40%" align="center" height="200em"  src="https://github-readme-stats.vercel.app/api?username=Eshiotuqui&show_icons=true&theme=tokyonight&layout=compact">
 </div>
 
 
