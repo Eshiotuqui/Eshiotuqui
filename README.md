@@ -6,7 +6,7 @@
 </p>&nbsp;
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; width: 2000px">
-  <img width="40%" align="center" height="200em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Eshiotuqui&show_icons=true&theme=tokyonight&layout=donut" />
+  <img width="40%" align="center" height="170em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Eshiotuqui&show_icons=true&theme=tokyonight&layout=donut" />
   <img width="40%" align="center" height="200em"  src="https://github-readme-stats.vercel.app/api?username=Eshiotuqui&show_icons=true&theme=tokyonight&layout=compact">
 </div>
 
