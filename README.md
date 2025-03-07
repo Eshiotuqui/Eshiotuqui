@@ -1,6 +1,6 @@
 <img width=100% margin="0" src="https://capsule-render.vercel.app/api?type=waving&color=71ffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71ffff&size=35&center=true&vCenter=true&width=1000&lines=Hey+guys,+My+Name+is+Enzo+Shiotuqui+🦕;I'm+19+years+old;I'm++from+São+Paulo,+Brazil;I'm+Front+End+developer+and+nerd+in+his+spare+time;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71ffff&size=35&center=true&vCenter=true&width=1000&lines=Hey+guys,+My+Name+is+Enzo+Shiotuqui+🦕;I'm+20+years+old;I'm++from+São+Paulo,+Brazil;I'm+Front+End+developer+and+nerd+in+his+spare+time;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   <p align="center">I'm passionate about creating solutions with technology 🚀<br> I have 2 years of experience in the development field, with a focus on front-end, and in that time I have gained experience in creating solutions and solving problems. I consider myself to be someone who is proactive, friendly and who always tries to understand the most creative and efficient ways to solve a problem. If you'd like to know more, feel free to take a look at my <a href="https://eshiotuqui.netlify.app/" target="_blank">portifolio</a>
 </p>&nbsp;
