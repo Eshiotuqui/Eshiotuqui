@@ -15,7 +15,7 @@
 
 **Technologies**
 
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,python,nodejs,js,typescript,mysql,html,css,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,next,vue,python,nodejs,js,typescript,mysql,html,css,figma)](https://skillicons.dev)
   
 **DevOps**
 
